@@ -4,7 +4,7 @@
 ## 1. FCFS (First come – first served)
 В данном варианте, в твиттер аккаунте бота, который обьявил о мероприятии будет выложена полная ссылка с **пасвордом**, по которой вы переходите и **чекаутите**.
 
-![Пост о мероприятии](https://github.com/sellarsteam/guides/blob/master/docs/bot_restocks/bot-restocks-image-1.png)
+![Пост о мероприятии](./bot-restocks-image-1.png)
 
 > Checkout - финальная стадия покупки товара.
 
@@ -12,8 +12,8 @@
 ## 2. FCFS with password
 Данная методика очень ___схожа на самый обычный FCFS___, но отныне вы будете получать не сразу готовую ссылку, а вам придется ___вставить пароль либо в строку password на сайте___, либо в ссылку. Некоторые боты пишут ___сразу ссылку и пароль___, а некоторые ___делают небольшой quiz___, который можно разгадать ___при должных знаниях об бэкграунде/истории софта___.
 
-![Пост](https://github.com/sellarsteam/guides/blob/master/docs/bot_restocks/bot-restocks-image-2.png)
-![Password page](https://github.com/sellarsteam/guides/blob/master/docs/bot_restocks/bot-restocks-image-3.png)
+![Пост](./bot-restocks-image-2.png)
+![Password page](./bot-restocks-image-3.png)
 
 > Quiz - головоломка на логику
 
@@ -25,7 +25,7 @@
 
 **Мы разобрались с методами - теперь перейдем к основным Bot restock тулзам**
 
-![Игра от Cybersole](https://github.com/sellarsteam/guides/blob/master/docs/bot_restocks/bot-restocks-image-4.png)
+![Игра от Cybersole](./bot-restocks-image-4.png)
 
 ## Restock Tools
 1. Начнем с **автофилла**, лично я работаю с fattye и я им полностью доволен, но вы можете использовать аналоги, коих сотни.
